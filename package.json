@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "generate-random-pass": "^1.0.0",
+    "halo-user": "^1.0.0",
+    "kusobypass": "^1.0.1",
+    "tebak-angka": "^1.0.0",
+    "tebak-huruf": "^1.0.0"
+  },
+  "name": "import-a-package-for-testing",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shidiqmuh0/import-module.git"
+  },
+  "author": "shidiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shidiqmuh0/import-module/issues"
+  },
+  "homepage": "https://github.com/shidiqmuh0/import-module#readme"
+}

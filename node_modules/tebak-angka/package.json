@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "tebak-angka",
+  "version": "1.0.0",
+  "description": "program sederhana tebak angka",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendro224/tebak-angka.git"
+  },
+  "keywords": [
+    "tebak"
+  ],
+  "author": "kuroi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendro224/tebak-angka/issues"
+  },
+  "homepage": "https://github.com/hendro224/tebak-angka#readme"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "halo-user",
+  "version": "1.0.0",
+  "description": "simple halo to user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al1tr/halo-user.git"
+  },
+  "keywords": [
+    "halo"
+  ],
+  "author": "alitr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al1tr/halo-user/issues"
+  },
+  "homepage": "https://github.com/al1tr/halo-user#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

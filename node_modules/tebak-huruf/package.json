@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "tebak-huruf",
+  "description": "Modul NPM sederhana yang memungkinkan pengguna untuk menebak huruf yang dimasukkan.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh1r01r0/tebak-huruf.git"
+  },
+  "keywords": [
+    "tebak"
+  ],
+  "author": "shiroi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh1r01r0/tebak-huruf/issues"
+  },
+  "homepage": "https://github.com/sh1r01r0/tebak-huruf#readme"
+}

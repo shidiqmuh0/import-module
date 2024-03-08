@@ -1,0 +1,22 @@
+{
+  "name": "generate-random-pass",
+  "version": "1.0.0",
+  "description": "app generator random password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashiheimaruyama/generateRandomPassword.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "ashihei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashiheimaruyama/generateRandomPassword/issues"
+  },
+  "homepage": "https://github.com/ashiheimaruyama/generateRandomPassword#readme"
+}
